@@ -2,7 +2,7 @@
 
 Case: Meetup Reservation (http://stream.meetup.com/2/rsvps)
 
-# Config
+### Config
 
 Already set in each files inside `kafka-properties`
 
